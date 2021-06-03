@@ -45,8 +45,8 @@ Budget website where users can keep track of their income, budget a month in adv
 
 
 ## Website
-*  https://vault-ucla.herokuapp.com/
-* https://github.com/latoyadawson/vault
+* https://vault-ucla.herokuapp.com/
+* https://github.com/dtoomey156/Vault
 
 
 
